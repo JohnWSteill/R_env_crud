@@ -1,4 +1,4 @@
-name: /isiseqruns/jfreeman_tmp_home/bin/conda_envs/atac_seq
+name: jws_atac_seq
 channels:
   - r
   - bioconda
@@ -182,11 +182,11 @@ dependencies:
   - pycparser=2.21=pyhd8ed1ab_0
   - pygments=2.14.0=pyhd8ed1ab_0
   - pyrsistent=0.19.3=py311h2582759_0
-  - python=3.11.0=h10a6764_1_cpython
+  - python=3.10
   - python-dateutil=2.8.2=pyhd8ed1ab_0
   - python-fastjsonschema=2.16.2=pyhd8ed1ab_0
   - python-json-logger=2.0.4=pyhd8ed1ab_0
-  - python_abi=3.11=3_cp311
+  - python_abi=3.10
   - pyzmq=25.0.0=py311hd6ccaeb_0
   - r-amap=0.8_19=r42hb13c81a_0
   - r-ashr=2.2_54=r42h7525677_1
@@ -504,4 +504,3 @@ dependencies:
       - tzlocal==4.2
       - urllib3==1.26.14
       - xdg==5.1.1
-prefix: /isiseqruns/jfreeman_tmp_home/bin/conda_envs/atac_seq
